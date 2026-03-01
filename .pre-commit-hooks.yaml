@@ -6,5 +6,5 @@
     'types': [text]
     args: []
     require_serial: false
-    additional_dependencies: ["prettier@0.18.0"]
+    additional_dependencies: ["prettier@0.19.0"]
     minimum_pre_commit_version: '0'
